@@ -9,3 +9,6 @@ The dashboard is an interactive dashboard that I designed in Tableau and publish
 You can take a look and interact with this dashboard [here](https://public.tableau.com/app/profile/tosin.oyewale/viz/Analysisofsalesandrevenuegenerated/Dashboard1?publish=yes)
 
 
+### ------------------------------------------------------------------------------------------------------------------------------------------
+app created by Tosin D. Oyewale (PhD) 
+[Linkedin](https://www.linkedin.com/in/tosin-oyewale/) 
