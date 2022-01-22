@@ -4,7 +4,7 @@ The dashboard is an interactive dashboard that I designed in Tableau and publish
 You can take a look and interact with this dashboard [here](https://public.tableau.com/app/profile/tosin.oyewale/viz/Analysisofsalesandrevenuegenerated/Dashboard1?publish=yes)
 
 <br />
-<img src="dashboard/revenue_new.png" alt="revenue_new" width="2000"/>
+<img src="dashboard/revenue_v2.png" alt="revenue_v2" width="2000"/>
 
 <br />
 
